@@ -1,0 +1,1 @@
+server:  port: 8080spring:  datasource:        url: jdbc:postgresql://localhost:5431/vendor        username: postgres        password: admin  jpa:   hibernate:      ddl-auto: create-drop
